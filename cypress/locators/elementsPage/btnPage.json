@@ -1,0 +1,9 @@
+{
+    "menuBtns" :"//span[contains(text(),'Buttons')]",
+    "btnDblClck":"#doubleClickBtn[type='button']",
+    "fldDblClck":"//p[@id='doubleClickMessage']",
+    "btnRClick":"#rightClickBtn[type='button']",
+    "fldRClck":"//p[@id='rightClickMessage']",
+    "btnClck":"//button[text()='Click Me']",
+    "fldClck":"//p[@id='dynamicClickMessage']"
+}

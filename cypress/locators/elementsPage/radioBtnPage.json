@@ -1,0 +1,7 @@
+{
+    "menuRadioBtn":"//span[contains(text(),'Radio Button')]",
+    "btnRadioYes":".custom-control-label[for='yesRadio']",
+    "btnRadioImprssve":".custom-control-label[for='impressiveRadio']",
+    "btnRadioNo":".custom-control-label[for='noRadio']",
+    "fldRadioMsg":"//body/div[@id='app']/div[1]/div[1]/div[2]/div[2]/div[2]/p[1]"
+}

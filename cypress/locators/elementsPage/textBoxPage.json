@@ -1,0 +1,9 @@
+{
+    "crdElements" : "//h5[contains(text(),'Elements')]",
+    "menuTxtbx" : "//span[text()='Text Box']",
+    "inptFName": "//input[@id='userName']",
+    "inptMail":"//input[@id='userEmail']",
+    "inptCrrntAddress": "//textarea[@id='currentAddress']",
+    "inptPermAdrdress": "//textarea[@id='permanentAddress']",
+    "btnSubmit": "#submit"
+}
