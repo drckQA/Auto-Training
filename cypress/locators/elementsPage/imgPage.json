@@ -1,0 +1,5 @@
+{
+    "menuImg":"//span[contains(text(),'Broken Links - Images')]",
+    "imgValid":"//body/div[@id='app']/div[1]/div[1]/div[2]/div[2]/div[2]/img[1]",
+    "imgBrkn":"img[src='/images/Toolsqa_1.jpg']"
+}
