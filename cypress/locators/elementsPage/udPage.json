@@ -1,0 +1,7 @@
+{
+    "menuUploadDownload":"//span[contains(text(),'Upload and Download')]",
+    "btnDownload":".btn[download='sampleFile.jpeg']",
+    "btnFile":".form-control-file[lang='en'][type='file']",
+    "btnUpload":".form-control-file[type='file']"
+    
+}
