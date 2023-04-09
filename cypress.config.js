@@ -5,6 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    baseUrl: "https://demoqa.com/elements",
     testIsolation: false,
     types: ["cypress-plugin-steps"],
     // video: false,

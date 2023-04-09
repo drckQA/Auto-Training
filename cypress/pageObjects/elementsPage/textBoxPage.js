@@ -14,12 +14,12 @@ module.exports = {
             .click();
     },
 
-    inptFName: () => {
+    inptFName: (fName) => {
         cy.xpath(textBoxPage.inptFName)
             .should('be.visible')
             .click()
             .clear()
-            .type("Derick Castro");
+            .type(fName);
     },
 
     inptMail: () => {

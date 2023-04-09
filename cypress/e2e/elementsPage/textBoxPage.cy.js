@@ -1,11 +1,12 @@
-var textBoxPage = require('../../pageObjects/elementsPage/textBoxPage')
+var textBoxPage = require('../../pageObjects/elementsPage/textBoxPage.js')
 
 describe('Text Box Page', () => {
 
     it('Should visit the DEMOQA Site', () => {
-      cy.visit('https://demoqa.com/')
-    }),
-  
+      // cy.visit('https://demoqa.com/')
+      cy.visit(Cypress.config('baseUrl'))
+    })
+      
     it('Should click the Elements menu', () => {
       textBoxPage.crdElements()
     }),
@@ -15,7 +16,7 @@ describe('Text Box Page', () => {
     }),
   
     it('Should input First Name', () => {
-      textBoxPage.inptFName()
+      textBoxPage.inptFName('Derick Castro')
     }),
   
     it('Should input Email Address', () => {
