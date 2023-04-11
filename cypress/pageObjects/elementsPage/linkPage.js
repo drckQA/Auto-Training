@@ -9,7 +9,7 @@ module.exports = {
   
     lnkHome: () => {
         cy.get(linkPage.lnkHome)
-        .invoke('removeAttr', 'target')
+        // .invoke('removeAttr', 'target')
         .click()
         .url()
         .should('include', 'https://demoqa.com/')

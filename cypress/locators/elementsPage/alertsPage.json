@@ -1,0 +1,8 @@
+{
+    "menuAlerts":"//span[contains(text(),'Alerts')]",
+    "btnAlert":"#alertButton.btn-primary[type='button']",
+    "btnAlert5":"#timerAlertButton[type='button']",
+    "btnAlertConfirm":"#confirmButton[type='button']",
+    "btnAlertPrompt":"#promtButton[type='button']",
+    "txtConfirmResult":"#confirmResult.text-success"
+}

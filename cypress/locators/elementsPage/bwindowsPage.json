@@ -1,0 +1,7 @@
+{
+    "menuBrowserWindows":"//span[contains(text(),'Browser Windows')]",
+    "btnNewTab":"#tabButton.btn-primary[type='button']",
+    "btnNewWindow":"#windowButton.btn-primary[type='button']",
+    "btnNewWindowMsg":"#messageWindowButton.btn-primary[type='button']",
+    "txtNewTab":"//h1[@id='sampleHeading']"
+}
