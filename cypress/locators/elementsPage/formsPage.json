@@ -1,0 +1,21 @@
+{
+    "menuForms":"//span[contains(text(),'Practice Form')]",
+    "inputFName":".form-control[placeholder='First Name'][type='text']",
+    "inputLName":".form-control[placeholder='Last Name'][type='text']",
+    "inputEmailAdd":".form-control[placeholder='name@example.com'][type='text']",
+    "btnMale":".custom-radio [for='gender-radio-1']",
+    "inputCellNum":".form-control[placeholder='Mobile Number'][type='text']",
+    "fldBDate":"//input[@id='dateOfBirthInput']",
+    "ddBMonth":"select.react-datepicker__month-select",
+    "ddBYear":"select.react-datepicker__year-select",
+    "pickBDay":"div.react-datepicker__day--003[aria-label='Choose Tuesday, December 3rd, 1996']",
+    "inputSubj":"#subjectsInput[type='text']",
+    "chkbxHobbies":"input[type='checkbox'][value='3']",
+    "fileUpload":"input.form-control-file[type='file']",
+    "inputAddress":".form-control[placeholder='Current Address'][rows='5']",
+    "ddState":"//div[contains(text(),'Select State')]",
+    "ddCity":"//div[contains(text(),'Select City')]",
+    "btnSubmit":".btn[type='submit']",
+    "modalSubmit":"//div[@id='example-modal-sizes-title-lg']"
+    
+}
