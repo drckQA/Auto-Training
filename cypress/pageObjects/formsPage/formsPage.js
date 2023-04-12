@@ -1,4 +1,4 @@
-var formsPage = require('../../formsPage/formsPage.json')
+var formsPage = require('../../locators/formsPage/formsPage.json')
 
 module.exports = {
 

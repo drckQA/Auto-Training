@@ -1,0 +1,6 @@
+{
+    "menuAccord":"//span[contains(text(),'Accordian')]",
+    "accordSecond":"#section2Heading",
+    "accordFirst":"#section1Heading",
+    "accordContent":"#section2Content"
+}
