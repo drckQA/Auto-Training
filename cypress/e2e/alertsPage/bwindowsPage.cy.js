@@ -1,4 +1,4 @@
-var bwindowsPage = require('../../pageObjects/elementsPage/bwindowsPage')
+var bwindowsPage = require('../../pageObjects/alertsPage/bwindowsPage.js')
 
 describe('Browser Windows Page', () => {
 

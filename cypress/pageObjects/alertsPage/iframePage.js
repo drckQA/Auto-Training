@@ -1,4 +1,4 @@
-var iframePage = require ('../../locators/elementsPage/iframePage.json')
+var iframePage = require ('../../locators/alertsPage/iframePage.json')
 
 module.exports = {
 

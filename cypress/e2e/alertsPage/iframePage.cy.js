@@ -1,4 +1,4 @@
-var iframePage = require ('../../pageObjects/elementsPage/iframePage')
+var iframePage = require ('../../pageObjects/alertsPage/iframePage.js')
 
 describe('Links Page', () => {
 

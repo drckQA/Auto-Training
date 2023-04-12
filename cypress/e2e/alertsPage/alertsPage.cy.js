@@ -1,4 +1,4 @@
-var alertsPage = require ('../../pageObjects/elementsPage/alertsPage')
+var alertsPage = require ('../../pageObjects/alertsPage/alertsPage')
 
 describe('Button Page', () =>{
 

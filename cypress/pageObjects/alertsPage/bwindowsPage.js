@@ -1,4 +1,4 @@
-var bwindowsPage = require ('../../locators/elementsPage/bwindowsPage.json')
+var bwindowsPage = require ('../../locators/alertsPage/alertsPage.json')
 
 module.exports = {
 

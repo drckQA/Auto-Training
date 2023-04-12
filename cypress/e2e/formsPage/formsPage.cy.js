@@ -1,4 +1,4 @@
-var formsPage = require ('../../pageObjects/elementsPage/formsPage')
+var formsPage = require ('../../pageObjects/formsPage/formsPage.js')
 
 describe('Practice Forms Page', () =>{
 

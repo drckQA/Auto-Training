@@ -1,4 +1,4 @@
-var nestedFramesPage = require ('../../pageObjects/elementsPage/nestedFramesPage')
+var nestedFramesPage = require ('../../pageObjects/alertsPage/nestedFramesPage.js')
 
 describe('Nested Frames Page', () => {
 

@@ -1,4 +1,4 @@
-var alertsPage= require ('../../locators/elementsPage/alertsPage.json')
+var alertsPage= require ('../../locators/alertsPage/alertsPage.json')
 
 module.exports = {
 

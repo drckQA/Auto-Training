@@ -1,4 +1,4 @@
-var udPage = require('../../locators/elementsPage/udPage.json')
+var udPage = require('../../elementsPage/udPage.json')
 
 module.exports = {
 

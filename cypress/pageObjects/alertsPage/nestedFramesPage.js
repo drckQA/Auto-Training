@@ -1,4 +1,4 @@
-var nestedFramesPage = require ('../../locators/elementsPage/nestedFramesPage.json')
+var nestedFramesPage = require ('../../locators/alertsPage/nestedFramesPage.json')
 
 module.exports = {
 
