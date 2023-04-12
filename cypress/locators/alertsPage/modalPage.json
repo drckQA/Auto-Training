@@ -1,0 +1,7 @@
+{
+    "menuModal":"//span[contains(text(),'Modal Dialogs')]",
+    "btnSmallModal":"#showSmallModal[type='button']",
+    "btnLargeModal":"#showLargeModal[type='button']",
+    "modalSmall":"div.modal-content",
+    "modalCloseBtn":"#closeSmallModal[type='button']"
+}
