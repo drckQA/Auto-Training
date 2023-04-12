@@ -1,0 +1,5 @@
+{
+    "menuFrames":"//body/div[@id='app']/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/ul[1]/li[3]/span[1]",
+    "frameHeader1":"#frame1",
+    "frameHeader2":"#frame2"
+}

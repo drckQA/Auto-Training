@@ -1,0 +1,5 @@
+{
+    "menuNestedFrames":"//span[contains(text(),'Nested Frames')]",
+    "frameParent":"#frame1",
+    "frameChiled":"#frame2"
+}

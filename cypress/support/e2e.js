@@ -17,5 +17,6 @@
 import './commands'
 import 'cypress-plugin-steps'
 require('cypress-xpath')
+require('cypress-iframe')
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
