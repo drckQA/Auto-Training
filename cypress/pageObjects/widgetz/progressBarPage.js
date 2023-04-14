@@ -15,7 +15,7 @@ module.exports = {
         cy.get(progressBarPage.progressBarVal)
         .as('progressbar')
         // .invoke('val', 50)
-        .should('have.attr','aria-valuenow', '30')
+        .should('have.attr','aria-valuenow', '50')
         cy.get(progressBarPage.btnStartReset)
         .trigger('click')
     }
